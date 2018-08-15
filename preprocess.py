@@ -1,5 +1,4 @@
-'''Code adapted from Evan Chow's jazzml, https://github.com/evancchow/jazzml with
-express permission.'''
+'''Code adapted from Evan Chow's jazzml, https://github.com/evancchow/jazzml.'''
 
 
 from __future__ import print_function
