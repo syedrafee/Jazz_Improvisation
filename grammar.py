@@ -1,10 +1,6 @@
 '''
-Author:     Ji-Sung Kim, Evan Chow
-Project:    jazzml / (used in) deepjazz
-Purpose:    Extract, manipulate, process musical grammar
-
 Directly taken then cleaned up from Evan Chow's jazzml, 
-https://github.com/evancchow/jazzml,with permission.
+https://github.com/evancchow/jazzml
 '''
 
 from collections import OrderedDict, defaultdict
